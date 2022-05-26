@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Vama Soni
-#B.Tech Computer Science and Engineering Student at CHARUSAT University, India
+##B.Tech Computer Science and Engineering Student at CHARUSAT University, India
 
 
 
