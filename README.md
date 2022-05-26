@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🚀 About Me
+
+I'm a Backend Developer with a experience in DJANGO and Flask. I've also a deep interest in AI and Machine Learning. I've worked with frontend as well in my freshman year.
+
+Reach out to me at: iam.vama.soni@gmail.com
+
+
