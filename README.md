@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Vama Soni
-B.Tech Computer Science and Engineering Student at CHARUSAT University, India
+#B.Tech Computer Science and Engineering Student at CHARUSAT University, India
 
 
 
@@ -34,7 +34,7 @@ Currently Working as a Backend Python Developer @ Jemistry Info Solutions LLP, S
 - 😄 Pronouns...
 she/her
 
-- 👩‍💻 Language & Tools
+## 👩‍💻 Language & Tools
 
 <a href="https://www.tensorflow.org" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40" width="40" />
