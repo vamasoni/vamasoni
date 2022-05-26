@@ -21,6 +21,18 @@ Here are some ideas to get you started:
 
 I'm a Backend Developer with a experience in DJANGO and Flask. I've also a deep interest in AI and Machine Learning. I've worked with frontend as well in my freshman year.
 
-Reach out to me at: iam.vama.soni@gmail.com
+- 👩‍💻 I'm currently working on...
+Facial Emotion Detetcion using Resnet-50 
+Django Chat Application (Adding features)
+
+- 📫 How to reach me...
+iam.vama.soni@gmail.com
+
+-- 📄 Know about my experiences
+Currently Working as a Backend Python Developer @ Jemistry Info Solutions LLP, Surat
+
+- 😄 Pronouns...
+she/her
+
 
 
