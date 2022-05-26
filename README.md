@@ -28,7 +28,7 @@ Django Chat Application (Adding features)
 - 📫 How to reach me...
 iam.vama.soni@gmail.com
 
--- 📄 Know about my experiences
+- 📄 Know about my experiences
 Currently Working as a Backend Python Developer @ Jemistry Info Solutions LLP, Surat
 
 - 😄 Pronouns...
