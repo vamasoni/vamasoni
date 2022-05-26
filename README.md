@@ -55,8 +55,7 @@ she/her
 
 ## 📈GitHub Statistics
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3root&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="g3root stats card" /></p>
-    
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vamasoni&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="vamasoni stats card" /></p>
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=vamasoni" alt="vamasoni" />
