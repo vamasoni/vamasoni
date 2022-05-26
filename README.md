@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Vama Soni/n B.Tech Computer Science and Engineering Student at CHARUSAT University, India
+
+
 
 <!--
 **vamasoni/vamasoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
