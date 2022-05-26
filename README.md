@@ -53,7 +53,7 @@ she/her
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" height="40" width="40" />
 </a>
 
-
+##GitHub Statistics
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3root&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="g3root stats card" /></p>
     
