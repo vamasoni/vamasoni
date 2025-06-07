@@ -1,81 +1,77 @@
-### Hi there 👋 I'm Vama Soni
-B.Tech Computer Science and Engineering Student at CHARUSAT University, India
+# 👋 Hi, I'm Vama Soni
 
+Welcome to my GitHub! I’m an Machine Learning Engineer passionate about building impactful machine learning solutions, especially in the realms of computer vision, NLP, and multimodal AI.
 
-
-<!--
-**vamasoni/vamasoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🚀 About Me
-
-I'm a Backend Developer with a experience in DJANGO and Flask. I've also a deep interest in AI and Machine Learning. I've worked with frontend as well in my freshman year.
-
-- 👩‍💻 I'm currently working on...
-Facial Emotion Detetcion using Resnet-50 
-Django Chat Application (Adding features)
-
-- 📫 How to reach me...
-iam.vama.soni@gmail.com
-
-- 📄 Know about my experiences
-Currently Working as a Backend Python Developer @ Jemistry Info Solutions LLP, Surat
-
+🎓 **Education**  
+- B.Tech in Computer Science, CHARUSAT University (CGPA: 9.23/10)  
+- GATE CS 2025: AIR 3808 (Score: 579/1000)  
+- Incoming M.Tech (CSIS) @NIT Warangal
+  
+---
 - 😄 Pronouns...
 she/her
+---
 
-## 👩‍💻 Language & Tools
-<a href="https://www.w3schools.com/cpp/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="40" />
-</a>
-<a href="https://www.w3schools.com/css/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40" />
-</a>
-<a href="https://www.w3.org/html/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
-</a>
-<a href="https://tailwindcss.com/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailWind" height="40" width="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
-</a>
-<a href="https://www.python.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
-</a>
-<a href="https://www.tensorflow.org" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40" width="40" />
-</a>
-<a href="https://pandas.pydata.org/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="40" width="40" />
-</a>
-<a href="https://opencv.org/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="40" width="40" />
-</a>
+## 💼 Professional Experience
 
-<a href="https://www.postgresql.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" width="40" />
-</a>
-<a href="https://www.oracle.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" height="40" width="40" />
-</a>
+### 🧠 AI Trainer | [AI4Bharat – IIT Madras](https://ai4bharat.org)  
+*Aug 2024 – Present (Remote)*  
+- Annotated 4500+ multilingual OCR pages (Hindi, Gujarati, English) for high-quality language datasets  
+- Reviewed and tested TTS models to improve pronunciation and naturalness  
+- Specialized in structural annotation of complex documents (newspapers, novels)
 
-## 📈GitHub Statistics
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vamasoni&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="vamasoni stats card" /></p>
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=vamasoni" alt="vamasoni" />
-</a>
-</p>
+### 🤖 Machine Learning Engineer | Binoloop Inc.  
+*Apr 2024 – Jul 2024 (Remote)*  
+- Contributed to the buiding of an LLM-based AI product for procurement evaluation on GCP  
+- Designed synthetic datasets, performed data tagging, and tuned models  
+- Gained hands-on exposure to U.S. federal procurement (RFP/RFI)
 
+### 🛰️ Computer Vision Research Intern | SCAAI  
+*Jun 2023 – Apr 2024 (Remote)*  
+- Deployed YOLOv8-OBB for detecting airborne objects (mAP50: 0.978)  
+- Created [AOD4 dataset](https://data.mendeley.com/datasets/cd5z895tr2/1) with 22k+ annotated images  
+- Focused on defense applications in aerial object tracking
+
+---
+
+## 🧪 Selected Projects
+
+- 🎶 **Music Genre Classifier**  
+  Used CNNs on MFCC + Mel-spectrograms to classify GTZAN audio genres (Accuracy: 79.7%)
+
+- 🌍 **WHO Life Expectancy EDA**  
+  Performed data cleaning and visualization to analyze global health trends
+
+- 😴 **Realtime Drowsiness Detection**  
+  Live fatigue monitoring using dlib’s EAR metric, OpenCV & Flask
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages:** Python, C/C++, JavaScript, HTML/CSS  
+**Frameworks:** TensorFlow, Scikit-learn, Flask, OpenCV, Pandas, NumPy  
+**Tools:** Git, GCP, Roboflow, Google Colab, Power BI, LATEX  
+**Interests:** Machine Learning, NLP, Computer Vision, LLMs, Multimodal Models
+
+---
+
+## 🏆 Achievements & Leadership
+
+- 🎓 Selected for M.Tech EE1 RAP(under an AI Project) @IIT Bombay in 2024 
+- 🎓 Selected for M.Tech Telecommunication Technology Management(HVA) @IIT Delhi in 2025
+- 📈 Former Lead @ GDSC CHARUSAT — grew membership by 191%  
+- 🗣️ Organizer of GDSC WOW 2023 & 2024, Gujarat’s first offline WOW with 750+ students  
+- 🌟 Only female organizer — secured major sponsorships from Google Crowdsource & others
+
+---
+
+## 🔗 Connect with Me
+
+- 📬 Email: [iam.vama.soni@gmail.com](mailto:iam.vama.soni@gmail.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vamaxsoni) | [Google Scholar](https://scholar.google.com/citations?user=tAOKg_EAAAAJ&hl=en) | [AOD4 Dataset](https://universe.roboflow.com/airborne-object-detection/airborne-object-detection-4-aod4)
+
+---
+
+Thanks for stopping by! 🌻  
+Let’s connect and build something impactful together.
