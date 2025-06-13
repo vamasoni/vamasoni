@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vama Soni
 
-Welcome to my GitHub! I’m an Machine Learning Engineer passionate about building impactful machine learning solutions, especially in the realms of computer vision, NLP, and multimodal AI. I will be joining IIT Hyderabad for masters to pursue my interests in Autonomous Navigation and Artificial Intelligence.
+Welcome to my GitHub! I’m an Machine Learning Engineer passionate about building impactful machine learning solutions, especially in the realms of computer vision, NLP, and multimodal AI. I will be joining IIT Hyderabad for masters, in July 2025, to pursue my interests in Autonomous Navigation and Artificial Intelligence.
 
 🎓 **Education**  
 - B.Tech in Computer Science, CHARUSAT University (CGPA: 9.23/10)  
