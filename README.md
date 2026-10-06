@@ -3,8 +3,7 @@
 Welcome to my GitHub! I’m an Machine Learning Engineer passionate about building impactful machine learning solutions, especially in the realms of computer vision, NLP, and multimodal AI. I will be joining IIT Hyderabad for masters, in July 2025, to pursue my interests in Autonomous Navigation and Artificial Intelligence.
 
 🎓 **Education**  
-- B.Tech in Computer Science, CHARUSAT University (CGPA: 9.23/10)  
-- GATE CS 2025: AIR 3808 (Score: 579/1000)  
+- B.Tech in Computer Science, CHARUSAT University (CGPA: 9.23/10)   
 - Incoming M.Tech Smart Mobility (Autonomous Navigation and Artificial Intelligence) @ IIT Hyderabad
   
 ---
