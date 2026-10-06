@@ -56,9 +56,6 @@ she/her
 ---
 
 ## 🏆 Achievements & Leadership
-
-- 🎓 Selected for M.Tech EE1 RAP(under an AI Project) @IIT Bombay in 2024 
-- 🎓 Selected for M.Tech Telecommunication Technology Management(HVA) @IIT Delhi in 2025
 - 📈 Former Lead @ GDSC CHARUSAT — grew membership by 191%  
 - 🗣️ Organizer of GDSC WOW 2023 & 2024, Gujarat’s first offline WOW with 750+ students  
 - 🌟 Only female organizer — secured major sponsorships from Google Crowdsource & others
